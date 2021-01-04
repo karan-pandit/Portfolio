@@ -3,11 +3,17 @@
 * Frontend: React and Material-UI. Github repo at <>
 * Backend: Firebase serverless functions and firebase cloud firestore. Github repo at <>
 
-# [Project 2: Expense Tracker (MERN)](https://colab.research.google.com/drive/1XONT_ArSVU1bDKGaEeZ-Zs_GGmYHbtMB?usp=sharing "Project 1")
+# [Project 2: Expense Tracker (MERN)](https://expense-tracker-karan.herokuapp.com/)
+* Hosted using heroku at <https://expense-tracker-karan.herokuapp.com/>
+* Github repo at <https://github.com/karan-pandit/expense-tracker-MERN>
+* Frontend: React 
+* Backend: Express and MongoDB
+
+# [Project 3: Social Media Platform](https://colab.research.google.com/drive/1XONT_ArSVU1bDKGaEeZ-Zs_GGmYHbtMB?usp=sharing "Project 1")
+* No yet completed
 * Hosted using firebase hosting at <>
 * Frontend: React and Material-UI. Github repo at <>
 * Backend: Firebase serverless functions and firebase cloud firestore. Github repo at <>
-
 
 # [Project 3: Hackernews Clone](https://news-2c640.web.app/)
 * Hosted using firebase hosting at <https://news-2c640.web.app/>
