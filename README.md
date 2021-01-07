@@ -1,4 +1,4 @@
-# [Project 1: Expense Tracker (React + Firebase)](https://ecommerce-karan.herokuapp.com/)
+# [Project 1: E-commerce Website (React + Firebase)](https://ecommerce-karan.herokuapp.com/)
 * Hosted using heroku at <https://ecommerce-karan.herokuapp.com/>
 * Github repo at <https://github.com/karan-pandit/ecommerce>
 * Frontend: React 
