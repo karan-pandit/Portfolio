@@ -15,7 +15,7 @@
 * Frontend: React and Styled-Components. Github repo at <https://github.com/karan-pandit/news>
 * Hackernews API sourced from <https://github.com/HackerNews/API>
 
-# [Project 4: Social Media Platform (under construction)](https://social-1db31.web.app/)
+# [Project 4: Social Media Platform (WIP)](https://social-1db31.web.app/)
 * Working on fixing some functionality
 * Hosted using firebase hosting at <https://social-1db31.web.app/>
 * Frontend: React and Material-UI. Github repo at <https://github.com/karan-pandit/social-app>
